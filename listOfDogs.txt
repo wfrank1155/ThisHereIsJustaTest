@@ -3,3 +3,4 @@ Poodles
 Yorkies
 Scotties
 German Shepards
+Irish Setter
